@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ashishmangla0/nodePractice/issues"
   },
-  "homepage": "https://github.com/ashishmangla0/nodePractice#readme"
+  "homepage": "https://github.com/ashishmangla0/nodePractice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
